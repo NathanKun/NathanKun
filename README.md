@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=NathanKun&theme=dark)](https://git.io/streak-stats)
+
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&line1=aem%2Caem%2Cauto%3Bjava%2Cjava%2Cauto%3Btypescript%2CJS/TS%2Cauto&line2=react%2Creact%2Cauto%3Bnext.js%2Cnext.js%2Cffffff%3Bvercel%2Cvercel%2Cffffff%3Bfirebase%2Cfirebase%2Cauto%3B&title=Tech%20Stack&align=center&titleAlign=center&fontSize=20&lineHeight=10)
+
+
 <!--
 **NathanKun/NathanKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
